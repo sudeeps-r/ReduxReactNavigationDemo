@@ -5,7 +5,10 @@ import { connect } from 'react-redux';
 import * as Actions from  '../actions/ActionTypes'
 
 class Home extends Component{
-
+    static navigationOptions = {
+        title: 'Home',
+      }
+      
     buttonPress(){
         this.props.navi
     }

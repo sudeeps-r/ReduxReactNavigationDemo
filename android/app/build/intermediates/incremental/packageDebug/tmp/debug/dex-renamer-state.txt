@@ -1,4 +1,4 @@
-#Sun Dec 23 12:27:42 IST 2018
-base.0=/Users/jiomoney/Documents/Androidapps/ReactDemo/DemoApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Sun Dec 23 21:17:43 IST 2018
+base.0=/Users/jiomoney/Documents/Androidapps/ReactDemo/DemoApp/ReduxReactNavigationDemo/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/jiomoney/Documents/Androidapps/ReactDemo/DemoApp/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
+            "outputFile": "/Users/jiomoney/Documents/Androidapps/ReactDemo/DemoApp/ReduxReactNavigationDemo/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml",
             "map": [
                 {
                     "source": "/Users/jiomoney/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/1ffc5d3b27df708ef4a3b58705d1ac26/res/values-pa/values-pa.xml",
